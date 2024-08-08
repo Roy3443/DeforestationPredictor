@@ -12,5 +12,6 @@ conservation efforts.</li>
 <li>Deforestation Detection</li>
 <li>Visualization</li>
 <li>Reporting</li>
-
 </ul>
+<h2>Tech Stack:</h2>
+<p>Python | TensorFlow | NumPy | Matplotlib | Streamlit | Google Colab
